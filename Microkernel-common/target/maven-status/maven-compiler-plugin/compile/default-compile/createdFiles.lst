@@ -1,0 +1,3 @@
+co\unicauca\microkernel\common\interfaces\IDeliveryPlugin.class
+co\unicauca\microkernel\common\entities\Product.class
+co\unicauca\microkernel\common\entities\Delivery.class
